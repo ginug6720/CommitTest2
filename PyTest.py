@@ -1,1 +1,1 @@
-jinwook = "APPLE"
+jinwook = "Banana"
