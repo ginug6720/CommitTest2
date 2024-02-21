@@ -1,3 +1,3 @@
 jinwook = "apple"
-jisoo = "pineapple"
+jisoo = "Pineapple"
 sunghwna = "Mango"
