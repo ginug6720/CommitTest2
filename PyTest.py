@@ -1,0 +1,2 @@
+jinwook = "apple"
+jisoo = "pineapple"
